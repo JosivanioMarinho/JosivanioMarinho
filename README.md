@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, i'm Josivânio Marinho 👋
 
-<!--
-**JosivanioMarinho/JosivanioMarinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm Brazilian :brazil: and I live in Pernambuco :grin:
+- I like it's always trying to learn more :blue_book:
+- My knowledge is more focused on mobile development :iphone:
+- I have a degree in Information Technology :man_student:
+- And most importantly, I love technology :computer:
 
-Here are some ideas to get you started:
+### Languages and tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="center" alt="java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" style="max-width:100%;">
+<img align="center" alt="java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" style="max-width:100%;">
+<img align="center" alt="java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="max-width:100%;">
+<img align="center" alt="java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="max-width:100%;">
+<img align="center" alt="java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="max-width:100%;">
+<img align="center" alt="java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" style="max-width:100%;">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosivanioMarinho&layout=compact&theme=dark&show_icons=true)](https://github.com/JosivanioMarinho/github-readme-stats)
